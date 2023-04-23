@@ -2,7 +2,8 @@
 int main(){
     int a;
     a=3;
-    printf("%d",a);
+    int b=8;
+    printf("%d",b);
     return 0;
 
 }
